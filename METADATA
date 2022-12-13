@@ -1,0 +1,20 @@
+name: "unicode-ident"
+description: "Determine whether characters have the XID_Start or XID_Continue properties according to Unicode Standard Annex #31"
+third_party {
+  url {
+    type: HOMEPAGE
+    value: "https://crates.io/crates/unicode-ident"
+  }
+  url {
+    type: ARCHIVE
+    value: "https://static.crates.io/crates/unicode-ident/unicode-ident-1.0.5.crate"
+  }
+  version: "1.0.5"
+  # Dual-licensed, using the least restrictive per go/thirdpartylicenses#same.
+  license_type: NOTICE
+  last_upgrade_date {
+    year: 2022
+    month: 12
+    day: 8
+  }
+}
