@@ -11,13 +11,13 @@ third_party {
   }
   url {
     type: ARCHIVE
-    value: "https://static.crates.io/crates/unicode-ident/unicode-ident-1.0.6.crate"
+    value: "https://static.crates.io/crates/unicode-ident/unicode-ident-1.0.8.crate"
   }
-  version: "1.0.6"
+  version: "1.0.8"
   license_type: NOTICE
   last_upgrade_date {
     year: 2023
-    month: 2
-    day: 6
+    month: 3
+    day: 30
   }
 }
