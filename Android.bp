@@ -47,6 +47,4 @@ rust_library_host {
     srcs: ["src/lib.rs"],
     edition: "2018",
     compile_multilib: "first",
-    product_available: true,
-    vendor_available: true,
 }
